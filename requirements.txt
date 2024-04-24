@@ -1,0 +1,6 @@
+datasets==2.19.0
+gradio==4.27.0
+langchain==0.1.16
+langchain-community==0.0.34
+langchain-core==0.1.45
+vllm==0.4.1
